@@ -1,23 +1,23 @@
-https://metrics.mzstatic.com
-https://metrics.icloud.com
-https://samsung-com.112.2o7.net
-https://metrics2.data.hicloud.com
-https://metrics1.data.hicloud.com
-https://metrics.data.hicloud.com
-https://d.reddit.com
-https://widgets.pinterest.com
-https://ads.linkedin.com
-https://advertising.twitter.com
-https://ads.facebook.com
-https://a.mouseflow.com
-https://mouseflow.com/
-https://cdn.luckyorange.com
-https://w1.luckyorange.com
-https://stats.wp.com
-https://mediavisor.doubleclick.net
-https://amazonaax.com
-https://advertising-api-eu.amazon.com
-https://affiliationjs.s3.amazonaws.com
-https://advice-ads.s3.amazonaws.com
-https://analyticsengine.s3.amazonaws.com
-https://adtago.s3.amazonaws.com
+0.0.0.0 https://metrics.mzstatic.com
+0.0.0.0 https://metrics.icloud.com
+0.0.0.0 https://samsung-com.112.2o7.net
+0.0.0.0 https://metrics2.data.hicloud.com
+0.0.0.0 https://metrics1.data.hicloud.com
+0.0.0.0 https://metrics.data.hicloud.com
+0.0.0.0 https://d.reddit.com
+0.0.0.0 https://widgets.pinterest.com
+0.0.0.0 https://ads.linkedin.com
+0.0.0.0 https://advertising.twitter.com
+0.0.0.0 https://ads.facebook.com
+0.0.0.0 https://a.mouseflow.com
+0.0.0.0 ttps://mouseflow.com/
+0.0.0.0 https://cdn.luckyorange.com
+0.0.0.0 https://w1.luckyorange.com
+0.0.0.0 https://stats.wp.com
+0.0.0.0 https://mediavisor.doubleclick.net
+0.0.0.0 https://amazonaax.com
+0.0.0.0 https://advertising-api-eu.amazon.com
+0.0.0.0 https://affiliationjs.s3.amazonaws.com
+0.0.0.0 https://advice-ads.s3.amazonaws.com
+0.0.0.0 https://analyticsengine.s3.amazonaws.com
+0.0.0.0 https://adtago.s3.amazonaws.com
