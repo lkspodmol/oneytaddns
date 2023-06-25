@@ -1,1 +1,3 @@
 172.217.1.14 manifest.googlevideo.com
+0.0.0.0. ads.youtube.com
+0.0.0.0. manifest.googlevideo.com
